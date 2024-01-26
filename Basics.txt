@@ -10,8 +10,8 @@ and sellers to trade shares.
 Buying and Selling: Investors buy and sell shares through brokerage accounts. When you want to buy a stock, you place a buy order through your brokerage platform,
 specifying the number of shares and the price you are willing to pay. Similarly, when you want to sell, you place a sell order.
 
-Market Price: The price of a stock is determined by the market, based on supply and demand. If more people want to buy a stock than sell it, the price goes up, and
-vice versa. The last traded price is known as the market price.
+Market Price: The price of a stock is determined by the market, based on supply and demand. If more people want to buy a stock than sell it, the price goes up, 
+and vice versa. The last traded price is known as the market price.
 
 Dividends: Some companies pay dividends, which are a portion of the company's profits distributed to shareholders. Not all companies pay dividends, and some may 
 choose to reinvest profits back into the business.
