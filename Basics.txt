@@ -1,0 +1,36 @@
+Stock trading involves buying and selling shares of ownership in a company. When you buy a share of a company's stock, you are essentially purchasing a small ownership
+stake in that company. Let's break down the key concepts:
+
+Shares of Stock: A company's ownership is divided into shares. When you buy a share, you own a portion of the company. The total number of outstanding shares determines
+the ownership distribution.
+
+Stock Exchanges: Most stock trading occurs on stock exchanges, such as the New York Stock Exchange (NYSE) or NASDAQ. These exchanges provide a platform for buyers and
+sellers to trade shares.
+
+Buying and Selling: Investors buy and sell shares through brokerage accounts. When you want to buy a stock, you place a buy order through your brokerage platform,
+specifying the number of shares and the price you are willing to pay. Similarly, when you want to sell, you place a sell order.
+
+Market Price: The price of a stock is determined by the market, based on supply and demand. If more people want to buy a stock than sell it, the price goes up, and
+vice versa. The last traded price is known as the market price.
+
+Dividends: Some companies pay dividends, which are a portion of the company's profits distributed to shareholders. Not all companies pay dividends, and some may 
+choose to reinvest profits back into the business.
+
+Ownership and Voting Rights: Owning shares also gives you certain rights, such as voting at shareholder meetings. However, the extent of these rights depends on 
+the type of shares you own (common or preferred).
+
+Risk and Return: Stock prices can be volatile, and they can go up or down based on various factors such as company performance, economic conditions, and market 
+sentiment. Investing in stocks carries risks, but it also offers the potential for returns through capital appreciation and dividends.
+
+Brokerage Fees: When you buy or sell stocks through a brokerage, you may incur fees or commissions. Some online brokerages offer commission-free trades, but it's
+essential to be aware of any associated costs.
+
+In summary, when you buy a share of a company's stock, you are purchasing a piece of ownership in that company. Your investment can increase or decrease in value
+based on various factors affecting the company and the market. It's crucial to research and understand the companies you invest in and be aware of the risks 
+associated with stock trading.
+
+
+
+
+
+
