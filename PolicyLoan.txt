@@ -6,7 +6,8 @@ Here’s a detailed and simple breakdown of how policy loans work:
 
 1. What is a policy loan?
 A policy loan is a loan provided to you by your life insurance company using the cash value of your life insurance policy as collateral. The key thing to 
-understand is that you're borrowing money from yourself—not from a bank—because the cash value is part of your life insurance policy that you've built up over time.
+understand is that you're borrowing money from yourself—not from a bank—because the cash value is part of your life insurance policy that you've built up over 
+time.
 
 2. Which policies allow policy loans?
 Only certain types of life insurance policies build cash value and allow you to borrow against them:
